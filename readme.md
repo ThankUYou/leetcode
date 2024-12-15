@@ -14,6 +14,9 @@
 - 回溯
 - 动态规划
 - 贪心
-## 题单
-- [灵神](/灵茶山艾府/readme.md)
+
+## repo内容包括：
+- [灵神题单](/灵茶山艾府/readme.md)
 - [hot100](/hot100/readme.md)
+- [每日一题](/daily/readme.md)
+- [排序算法](/sort/readme.md)
